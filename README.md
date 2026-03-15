@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm John Bernett Dela Cruz</h1>
-<h3 align="center">A passionate BSIT student from the Philippines 🇵🇭</h3>
+<h1 align="center">Hi, I'm John Bernett</h1>
+<h3 align="center">A BSIT student from the University of Mindanao 🇵🇭</h3>
 
 <br/>
 
-- 🌱 I'm currently studying **BSIT**
-
-- reach me on: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="274d0943424b464455525d0912121210141567524a4e4943464946480942435209574f">[email&#160;protected]</a>**
+ I'm currently studying **BSIT**
+ Email: **bernettdelacruz7@gmail.com**
 
 <br/>
 
-##  Connect with me:
+## Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zhen_4u/)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23202830.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://boxd.it/9Cftv)
@@ -27,7 +26,7 @@
 
 <br/>
 
-##  GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aegon3&show_icons=true&theme=tokyonight" alt="John's GitHub Stats" />
