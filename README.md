@@ -5,7 +5,7 @@
 
 <br/>
 
- I'm currently studying **BSIT**
+ I'm currently studying **BSIT** <br><br>
  Email: **bernettdelacruz7@gmail.com**
 
 <br/>
