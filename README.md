@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm John Bernett</h1> 
-
-<br><br>
-<h3 align="center">A BSIT student from the University of Mindanao 🇵🇭</h3>
+<br>
+<h3 align="center">A BSIT student from the University of Mindanao </h3>
 
 <br/>
 
