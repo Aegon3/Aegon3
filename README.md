@@ -4,19 +4,19 @@
 <br/>
 
 - 🌱 I'm currently studying **BSIT**
-- 💬 Ask me about **Python, JavaScript, React, HTML & MySQL**
-- 📫 How to reach me: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="274d0943424b464455525d0912121210141567524a4e4943464946480942435209574f">[email&#160;protected]</a>**
+
+- reach me on: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="274d0943424b464455525d0912121210141567524a4e4943464946480942435209574f">[email&#160;protected]</a>**
 
 <br/>
 
-## 🌐 Connect with me:
+##  Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zhen_4u/)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23202830.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://boxd.it/9Cftv)
 
 <br/>
 
-## 🛠️ Languages and Tools:
+## Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +27,7 @@
 
 <br/>
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aegon3&show_icons=true&theme=tokyonight" alt="John's GitHub Stats" />
