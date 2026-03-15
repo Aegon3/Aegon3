@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm John Bernett Dela Cruz</h1>
 <h3 align="center">A passionate BSIT student from the Philippines 🇵🇭</h3>
 
@@ -6,7 +5,7 @@
 
 - 🌱 I'm currently studying **BSIT**
 - 💬 Ask me about **Python, JavaScript, React, HTML & MySQL**
-- 📫 How to reach me: **j.delacruz.555732@umindanao.edu.ph**
+- 📫 How to reach me: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="274d0943424b464455525d0912121210141567524a4e4943464946480942435209574f">[email&#160;protected]</a>**
 
 <br/>
 
@@ -24,6 +23,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 <br/>
 
@@ -34,9 +34,4 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aegon3&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aegon3&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aegon3&layout=compact&theme=tokyonight" alt="Top Langu
