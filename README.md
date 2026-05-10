@@ -25,7 +25,7 @@ Email: **bernettdelacruz7@gmail.com**
 ![Supabase](https://img.shields.io/badge/supabase-%2300F2C3.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aegon3&show_icons=true&theme=tokyonight" alt="John's GitHub Stats" />
 </p>
