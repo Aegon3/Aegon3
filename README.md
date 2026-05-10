@@ -1,17 +1,19 @@
 <h1 align="center">Hi, I'm John Bernett</h1> 
 <br>
-<h3 align="center">A BSIT student from the University of Mindanao </h3>
+<h3 align="center">A BSIT student from the University of Mindanao</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aegon3&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 <br/>
- I'm currently studying **BSIT** <br><br>
- Email: **bernettdelacruz7@gmail.com**
-<br/>
+
+I'm currently studying **BSIT**
+
+Email: **bernettdelacruz7@gmail.com**
+
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zhen_4u/)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-%23202830.svg?style=for-the-badge&logo=letterboxd&logoColor=white)](https://boxd.it/9Cftv)
-<br/>
+
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -22,7 +24,7 @@
 ![Vite](https://img.shields.io/badge/vite-%2355C6E8.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%2300F2C3.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-<br/>
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aegon3&show_icons=true&theme=tokyonight" alt="John's GitHub Stats" />
