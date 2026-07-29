@@ -29,7 +29,7 @@ Email: **bernettdelacruz7@gmail.com**
 ![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![CleverCloud](https://img.shields.io/badge/clever%20cloud-%23FF0000.svg?style=for-the-badge&logo=clever-cloud&logoColor=white)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aegon3&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="John's GitHub Stats" />
 </p>
